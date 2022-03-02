@@ -1,4 +1,4 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 <h1 align="center">Hi 👋, I'm Gregory Van den Bergh</h1>
 <h3 align="center">A passionate fullstack developer from Belgium</h3>
